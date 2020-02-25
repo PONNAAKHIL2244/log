@@ -1,0 +1,108 @@
+[DEBUG] 2020-02-24 22:21:13.500 [main] Sam1 - hello
+[INFO ] 2020-02-24 22:21:13.550 [main] Sam1 - hello
+[ERROR] 2020-02-24 22:21:13.550 [main] Sam1 - hello
+[DEBUG] 2020-02-24 22:26:14.868 [main] Sam1 - hello
+[INFO ] 2020-02-24 22:26:14.871 [main] Sam1 - hello
+[ERROR] 2020-02-24 22:26:14.872 [main] Sam1 - hello
+[DEBUG] 2020-02-24 22:27:28.904 [main] Sam1 - hello
+[INFO ] 2020-02-24 22:27:28.907 [main] Sam1 - hello
+[ERROR] 2020-02-24 22:27:28.907 [main] Sam1 - hello
+[DEBUG] 2020-02-24 22:29:09.127 [main] Sam1 - hello
+[INFO ] 2020-02-24 22:29:09.132 [main] Sam1 - hello
+[ERROR] 2020-02-24 22:29:09.132 [main] Sam1 - hello
+[DEBUG] 2020-02-24 22:29:51.646 [main] Sam1 - hello
+[INFO ] 2020-02-24 22:29:51.649 [main] Sam1 - hello
+[ERROR] 2020-02-24 22:29:51.650 [main] Sam1 - hello
+[DEBUG] 2020-02-24 22:30:48.387 [main] Sam1 - hello
+[INFO ] 2020-02-24 22:30:48.390 [main] Sam1 - hello
+[ERROR] 2020-02-24 22:30:48.390 [main] Sam1 - hello
+[DEBUG] 2020-02-24 22:34:26.770 [main] Sam1 - hello
+[INFO ] 2020-02-24 22:34:26.772 [main] Sam1 - hello
+[ERROR] 2020-02-24 22:34:26.773 [main] Sam1 - hello
+[INFO ] 2020-02-24 22:37:54.912 [main] Sam1 - helllo
+[INFO ] 2020-02-24 22:39:11.271 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:39:11.274 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:46:57.637 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:46:57.640 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:47:03.377 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:47:03.384 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:47:03.551 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:47:03.558 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:47:05.492 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:47:05.503 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:47:06.420 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:47:06.430 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:47:06.481 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:47:06.492 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:47:09.716 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:47:09.721 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:47:20.704 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:47:20.707 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:47:25.548 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:47:25.556 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:47:26.878 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:47:26.887 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:47:28.442 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:47:28.451 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:47:30.004 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:47:30.035 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:47:38.380 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:47:38.390 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:47:38.684 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:47:38.690 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:47:41.196 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:47:41.209 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:47:41.159 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:47:41.342 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:47:41.622 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:47:41.629 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:47:41.955 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:47:41.965 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:47:42.549 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:47:42.555 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:47:43.004 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:47:43.016 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:47:43.116 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:47:43.125 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:47:43.157 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:47:43.165 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:47:43.164 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:47:43.171 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:47:51.524 [main] Sam1 - helllo
+[ERROR] 2020-02-24 22:47:51.527 [main] Sam1 - helo
+[INFO ] 2020-02-24 22:53:05.072 [main] Sam1 - helllo
+[INFO ] 2020-02-24 22:53:08.119 [main] Sam1 - helllo
+[INFO ] 2020-02-24 22:54:45.205 [main] Sam1 - helllo
+[INFO ] 2020-02-24 22:59:57.303 [main] Sam1 - helllo
+[DEBUG] 2020-02-24 23:05:29.056 [main] Sam1 - hi
+[INFO ] 2020-02-24 23:05:29.059 [main] Sam1 - helllo
+[DEBUG] 2020-02-24 23:07:39.786 [main] Sam1 - hi
+[INFO ] 2020-02-24 23:07:39.789 [main] Sam1 - helllo
+[DEBUG] 2020-02-24 23:09:37.880 [main] Sam1 - hi
+[INFO ] 2020-02-24 23:09:37.883 [main] Sam1 - helllo
+[DEBUG] 2020-02-24 23:11:46.229 [main] Sam1 - hi
+[INFO ] 2020-02-24 23:11:46.238 [main] Sam1 - helllo
+[DEBUG] 2020-02-24 23:14:15.740 [main] Sam1 - hi
+[INFO ] 2020-02-24 23:14:15.744 [main] Sam1 - helllo
+[DEBUG] 2020-02-24 23:14:18.872 [main] Sam1 - hi
+[INFO ] 2020-02-24 23:14:18.876 [main] Sam1 - helllo
+[DEBUG] 2020-02-24 23:15:23.267 [main] Sam1 - hi
+[INFO ] 2020-02-24 23:15:23.270 [main] Sam1 - helllo
+[DEBUG] 2020-02-24 23:17:09.659 [main] Sam1 - hi
+[INFO ] 2020-02-24 23:17:09.663 [main] Sam1 - helllo
+[ERROR] 2020-02-24 23:17:09.664 [main] Sam1 - hiiiii
+[DEBUG] 2020-02-24 23:17:16.024 [main] Sam1 - hi
+[INFO ] 2020-02-24 23:17:16.030 [main] Sam1 - helllo
+[ERROR] 2020-02-24 23:17:16.031 [main] Sam1 - hiiiii
+[DEBUG] 2020-02-24 23:17:20.577 [main] Sam1 - hi
+[INFO ] 2020-02-24 23:17:20.581 [main] Sam1 - helllo
+[ERROR] 2020-02-24 23:17:20.582 [main] Sam1 - hiiiii
+[DEBUG] 2020-02-24 23:17:23.035 [main] Sam1 - hi
+[INFO ] 2020-02-24 23:17:23.043 [main] Sam1 - helllo
+[ERROR] 2020-02-24 23:17:23.044 [main] Sam1 - hiiiii
+[DEBUG] 2020-02-24 23:17:25.729 [main] Sam1 - hi
+[INFO ] 2020-02-24 23:17:25.732 [main] Sam1 - helllo
+[ERROR] 2020-02-24 23:17:25.733 [main] Sam1 - hiiiii
+[DEBUG] 2020-02-24 23:19:21.080 [main] Sam1 - hi
+[INFO ] 2020-02-24 23:19:21.084 [main] Sam1 - helllo
+[ERROR] 2020-02-24 23:19:21.084 [main] Sam1 - hiiiii
